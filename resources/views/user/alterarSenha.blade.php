@@ -37,17 +37,17 @@
 
                     <div class="form-group">
                         <label for="password_old">Senha antiga:</label>
-                        <input type="password" name="password_old" class="form-control" required>
+                        <input type="text" name="password_old" class="form-control" required>
                     </div>
 
                     <div class="form-group">
                         <label for="password_new">Senha nova:</label>
-                        <input type="password" name="password_new" class="form-control" required>
+                        <input type="text" name="password_new" class="form-control" required>
                     </div>
 
                     <div class="form-group">
                         <label for="password_new2">Senha nova (repetir):</label>
-                        <input type="password" name="password_new2" class="form-control" required>
+                        <input type="text" name="password_new2" class="form-control" required>
                     </div>
 
                     <button type="submit" class="btn btn-primary mt-3">ENVIAR</button>
